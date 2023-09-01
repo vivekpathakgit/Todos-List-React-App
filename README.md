@@ -14,6 +14,7 @@ Features
 
 ### About Page
 
-![image](https://github.com/vivekpathakgit/Todos-List-React-App/assets/93838914/4044e6a0-7fd4-4809-b800-3d5557cfe116)
+![image](https://github.com/vivekpathakgit/Todos-List-React-App/assets/93838914/48eb0051-9b01-49ec-b8c9-2fe8a8f47995)
+
 
 
